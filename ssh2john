@@ -1,0 +1,2 @@
+1. Convert pure id_rsa to john format to crack
+--> python ssh2john.py id_rsa > id_rsa.hash
